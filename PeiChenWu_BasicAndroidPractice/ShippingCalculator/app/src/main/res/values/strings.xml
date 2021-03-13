@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="Label">Shipping Weight (lbs):</string>
+    <string name="NextDay">Next Day</string>
+    <string name="SecondDay">Second Day</string>
+    <string name="Standard">Standard</string>
+    <string name="Insurance">Insurance</string>
+    <string name="Cost">Cost: TBD</string>
+    <string name="CalCost">Calculate Cost</string>
+</resources>

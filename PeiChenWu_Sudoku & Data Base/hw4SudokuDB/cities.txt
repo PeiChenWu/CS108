@@ -1,0 +1,14 @@
+'Cairo','Africa',15200000
+'Lagos','Africa',21000000
+'Kyoto','Asia',1474570
+'Mumbai','Asia',20400000
+'Shanghai','Asia',24152700
+'Melbourne','Australia',3900000
+'London','Europe',8580000
+'Rome','Europe',2715000
+'Rostov-on-Don','Europe',1052000
+'San Francisco','North America',5780000
+'San Jose','North America',7354555
+'New York','North America',21295000
+'Rio de Janeiro','South America',12280702
+'Santiago','South America',5507282

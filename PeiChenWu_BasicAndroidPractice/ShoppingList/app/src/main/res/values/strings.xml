@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="btn_label_Left">Add Item</string>
+    <string name="btn_label_Right">Clear List</string>
+</resources>
