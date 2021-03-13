@@ -3,6 +3,7 @@ CS108 is a programming class at Stanford, focusing on Object Oriented Programmin
 Programming Proficiency & Applications: Java, MySQL, Android Development, HTML, etc.
 
 Check out demo videos:
+
 Escape Bunny World
 https://youtu.be/8kc8HVKP3WI
 
